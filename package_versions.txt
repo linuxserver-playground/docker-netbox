@@ -76,7 +76,7 @@ gdbm                       1.26-r0           apk
 ghp-import                 2.1.0             python                           
 graphql-core               3.3.2             python                           
 griffelib                  2.4.1             python                           
-gunicorn                   26.2.0            python                           
+gunicorn                   27.0.1            python                           
 idna                       3.20              python          (+1 duplicate)   
 inflection                 0.5.1             python                           
 jansson                    2.14.1-r0         apk                              
@@ -132,7 +132,7 @@ mkdocs                     1.6.1             python
 mkdocs-autorefs            1.4.5             python                           
 mkdocs-get-deps            0.2.2             python                           
 mkdocstrings               1.0.8             python                           
-mkdocstrings-python        2.0.10            python                           
+mkdocstrings-python        2.0.11            python                           
 mpdecimal                  4.0.1-r0          apk                              
 msgpack                    1.2.4             python                           
 musl                       1.2.5-r24         apk                              
@@ -143,7 +143,7 @@ netbox                     4.6.2             npm
 netbox-graphiql            4.6.2             npm                              
 netcat-openbsd             1.234.1-r0        apk                              
 nghttp2-libs               1.69.0-r0         apk                              
-nh3                        0.3.7             python                           
+nh3                        0.3.8             python                           
 oauthlib                   4.0.1             python                           
 oniguruma                  6.9.10-r0         apk                              
 packaging                  26.3              python                           
@@ -159,8 +159,8 @@ postgresql-common          1.2-r2            apk
 postgresql18-client        18.7-r0           apk                              
 procps-ng                  4.0.5-r0          apk                              
 prometheus-client          0.26.0            python                           
-psycopg                    3.3.8             python                           
-psycopg-c                  3.3.8             python                           
+psycopg                    3.3.9             python                           
+psycopg-c                  3.3.9             python                           
 psycopg-pool               3.3.3             python                           
 pyasn1                     0.6.5             python                           
 pyasn1-modules             0.4.2             python                           
@@ -178,7 +178,7 @@ python3-openid             3.2.0             python
 python3-pyc                3.12.16-r0        apk                              
 python3-pycache-pyc0       3.12.16-r0        apk                              
 pythoncapi_compat          UNKNOWN           UnknownPackage                   
-pyyaml                     6.0.3             python                           
+pyyaml                     6.0.4             python                           
 pyyaml-env-tag             1.1               python                           
 raqm                       0.11.0            python                           
 readline                   8.3.1-r0          apk                              
@@ -196,7 +196,7 @@ shadow                     4.18.0-r0         apk
 skalibs-libs               2.14.4.0-r0       apk                              
 social-auth-app-django     6.1.0             python                           
 social-auth-core           5.2.0             python                           
-sorl-thumbnail             13.4.0            python                           
+sorl-thumbnail             13.5.0            python                           
 sqlite-libs                3.53.4-r0         apk                              
 sqlparse                   0.6.1             python                           
 ssl_client                 1.37.0-r30        apk                              
@@ -220,8 +220,8 @@ uwsgi-python3              2.0.31-r0         apk
 watchdog                   7.1.1             python                           
 wheel                      0.48.0            python                           
 xz-libs                    5.8.4-r0          apk                              
-zensical                   0.1.0             python                           
-zensical-ui                0.0.41            python                           
+zensical                   0.1.3             python                           
+zensical-ui                0.0.43            python                           
 zlib                       1.4-r0            apk                              
 zlib                       2.3.3             UnknownPackage                   
-zstd-libs                  1.6.0-r0          apk                              
+zstd-libs                  1.6.0-r1          apk                              
