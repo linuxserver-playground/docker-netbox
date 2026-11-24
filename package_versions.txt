@@ -34,7 +34,7 @@ catatonit                  0.2.1-r0          apk
 certifi                    2026.10.23        python                           
 certifi                    2026.11.20        python                           
 cffi                       2.1.1             python                           
-charset-normalizer         3.5.2             python                           
+charset-normalizer         3.5.3             python                           
 click                      8.5.1             python                           
 colorama                   0.4.6             python                           
 coreutils                  9.8-r1            apk                              
@@ -90,10 +90,10 @@ libavif                    1.4.2             UnknownPackage
 libbsd                     0.12.2-r0         apk             (+1 duplicate)   
 libbz2                     1.0.8-r6          apk                              
 libcap2                    2.78-r0           apk                              
-libcrypto3                 3.5.9-r0          apk                              
+libcrypto3                 3.5.9-r1          apk                              
 libcurl                    8.23.0-r0         apk                              
 libexpat                   2.10.0-r0         apk                              
-libffi                     3.5.2-r0          apk                              
+libffi                     3.8.1-r0          apk                              
 libgcc                     14.2.0-r6         apk                              
 libgcc                     15.2.0-r2         apk                              
 libidn2                    2.3.8-r0          apk                              
@@ -110,7 +110,7 @@ libproc2                   4.0.5-r0          apk
 libpsl                     0.21.5-r3         apk                              
 libsasl                    2.1.28-r9         apk                              
 libsharpyuv                1.6.0-r0          apk                              
-libssl3                    3.5.9-r0          apk                              
+libssl3                    3.5.9-r1          apk                              
 libstdc++                  15.2.0-r2         apk                              
 libtiff                    4.7.2             UnknownPackage                   
 libunistring               1.4.1-r0          apk                              
@@ -146,7 +146,8 @@ nghttp2-libs               1.69.0-r0         apk
 nh3                        0.3.7             python                           
 oauthlib                   4.0.1             python                           
 oniguruma                  6.9.10-r0         apk                              
-packaging                  26.3              python          (+1 duplicate)   
+packaging                  26.3              python                           
+packaging                  26.4              python                           
 pathspec                   1.1.1             python                           
 pcre2                      10.49-r0          apk                              
 pillow                     13.0.0            python          (+1 duplicate)   
@@ -223,4 +224,4 @@ zensical                   0.1.0             python
 zensical-ui                0.0.41            python                           
 zlib                       1.4-r0            apk                              
 zlib                       2.3.3             UnknownPackage                   
-zstd-libs                  1.5.7-r2          apk                              
+zstd-libs                  1.6.0-r0          apk                              
